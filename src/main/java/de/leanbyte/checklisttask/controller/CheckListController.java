@@ -1,8 +1,6 @@
 package de.leanbyte.checklisttask.controller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import de.leanbyte.checklisttask.model.CheckList;
 import de.leanbyte.checklisttask.service.CheckListService;
 import de.leanbyte.checklisttask.vo.CheckListDetail;
